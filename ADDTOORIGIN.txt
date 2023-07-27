@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 add confilict
+=======
+test confilict in server
+>>>>>>> 11f797d0ef68567e31188de1657043015cd47cfa
